@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+/* element selector */
+body{
+    background-color: aqua;
+    font-family: Cambria;
+    color: blue;
+}
+
+/* class selector */
+.text.judul{
+    color: darkblue;
+}
+.col{
+    width: 25%;
+    float: left;
+}
+.img-responsive{
+    width: 100%;
+    max-height: 500px;
+}
+
+.circle{
+    border-radius: 50%;
+}
+
+.rounded{
+    border-radius: 20px;
+}
+.p-1{
+    padding: 10px;
+}
+.col-2{
+    width: 50%;
+    float: left;
+}
